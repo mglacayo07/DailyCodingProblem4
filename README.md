@@ -10,4 +10,4 @@ For example, the input `[3, 4, -1, 1]` should give `2`. The input `[1, 2, 0]` sh
 
 # Preview
 
-![]()
+![](https://github.com/mglacayo07/DailyCodingProblem4/blob/dev/preview.png)
